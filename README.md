@@ -6,11 +6,11 @@
 
 Some facts about me:
 
-- 💻 I’m currently working on a big Azure integration service project at [Codit](https://codit.eu)
+- 💻 I’m currently working as a Engineering Operations Lead at [OLX Group](https://https://www.olxgroup.com/) and we are [hiring](https://careers.olxgroup.com/)!
 - ✍️ I blog at https://gchaves.net
 - 🐦 I'm on Twitter at https://twitter.com/gchaves
-- 👯 I’m looking to collaborate on [Azure API Management](https://github.com/Azure/API-Management)
-- 💬 Ask me about software architecture, Azure cloud, and aircrafts metaphors
+- 👯 I’m looking to collaborate on tech excellence, agile and best practices
+- 💬 Ask me about software architecture, cloud, software operations and aircrafts metaphors
 - 📫 How to reach me: [gchaves at outlook](mailto:gchaves@outlook.com)
 - 😄 Pronouns: Captain Keys (keys = Chaves | en to pt)
 - 🚲 and 🥊 Is what I like to practice as sports
